@@ -1,0 +1,29 @@
+# Fichiers binaires
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Dossiers de build
+/build/
+/dist/
+/out/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+
+# Autres fichiers et dossiers à ignorer
+.DS_Store
+Thumbs.db
+
+# Dossiers spécifiques à l'environnement de développement
+/.vs/
+/.vscode/
+/node_modules/
+/myenv/
+/introtodeeplearning/
+/s4/
+/mamba/
+/__pycache__/
